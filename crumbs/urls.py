@@ -1,0 +1,6 @@
+GITHUB_URL = "https://api.github.com"
+AUTHORIZATIONS_URL = GITHUB_URL + "/authorizations"
+LIST_GISTS_URL = GITHUB_URL + "/users/{user}/gists"
+CREATE_GIST_URL = GITHUB_URL + "/gists"
+DELETE_GIST_URL = GITHUB_URL + "/gists/{id}"
+EDIT_GIST_URL = GITHUB_URL + "/gists/{id}"
